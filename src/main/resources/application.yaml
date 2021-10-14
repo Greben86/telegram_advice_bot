@@ -1,0 +1,5 @@
+bot:
+  name: "${TELEGRAM_BOT_NAME:}"
+  token: "${TELEGRAM_BOT_TOKEN:}"
+source:
+  url: "http://fucking-great-advice.ru/api/random"
